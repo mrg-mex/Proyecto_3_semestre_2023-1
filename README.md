@@ -5,6 +5,7 @@
 - Erik Peña Medina (responsable)
 - Pérez Delgado Brandon Ulises (particupante)
 - Rodríguez Corona Jonathan Alejandro (particupante)
+- Diego Rosales Rebollar (particupante)
 
 # Objetivo
 Implementar una interfase de control de un robot serial 5R con actuadores dynamixel para el desarrollo de prácticas de robótica.
