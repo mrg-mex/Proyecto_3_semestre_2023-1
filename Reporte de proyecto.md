@@ -18,13 +18,13 @@
 
 # Objetivo
 Implementar una interfase de control de un robot serial 5R con actuadores dynamixel para el desarrollo de prácticas de robótica.
-# Introducción
-# Desarrollo
-# Metas
+  METAS
 - Establecer el modelo cinemático del robot e implementarlo en un simulación.
 - Crear el modelo URDF del robot para la generación de la simulación en Simscape y/o en ROS2.
 - Interfaz de control del robot que permite programar para realizar tareas de manipulación de objetos, mediante esquemas de planeación de movimientos.
 - Plantear el desarrollo de una tarea programada.
+# Introducción
+# Desarrollo
 
 # Autores
 | Iniciales  | Description |
