@@ -5,7 +5,7 @@
 | ------:| ----------- |
 | ***Asignatura*** | Robótica *2135* | 
 | **Robotica-2023-I**  | Proyecto Robot Dynamixel |
-| **IT102321-C002** | Proyecto - juntas rotacionales- robót  |
+| **IT102321-C002** | Proyecto - Juntas rotacionales - Robót  |
 
 # Participantes
 - Erik Peña Medina (responsable)
