@@ -17,6 +17,11 @@
 - [Autor](#Autores)
 - [Referencias](#Referencias)
 
+
+# Productos
+- Repositorio con los archivos generados durante la realización del proyecto.
+- Banco de pruebas del robot para ser utilizado en prácticas de la asignatura de robótica.
+
 # Objetivo
 Implementar una interfase de control de un robot serial 5R con actuadores dynamixel para el desarrollo de prácticas de robótica.
 ## METAS
@@ -26,6 +31,17 @@ Implementar una interfase de control de un robot serial 5R con actuadores dynami
   mediante esquemas de planeación de movimientos.
 - Plantear el desarrollo de una tarea programada.
 # Introducción
+
+Para entrar en contexto con el root dynamixel es necesario entender el porque recibe este nombre, como menciona su propio 
+sitio web, Dynamixel es un sistema actuador inteligente desarrollado exclusivamente para conectar juntas para un robot o
+una estructura mecánica; estos están diseñados para ser modulares y fáciles de montar en cualquier robot o diseño mecánico
+para movimientos roboticos poderosos y flexibles.
+
+Los Dynamixel tienen un elevado desempeño como actuador ya que contienen un Motor de corriente directa completamente 
+integrado con un reductor, un controlador interno y un driver para su conexión. 
+
+
+
 # Desarrollo
 
 Para el desarollo de este proyecto, lo primero que hicimos fue ponernos en contexto para conocer las necesidades
@@ -70,10 +86,13 @@ del gripper y corregir los errores de ensamble.
 
 --> *Agregar imagen*
 
-A partir de la meta pasada, nos pudimos mover a la siguiente meta que era realizar el archivo URDF del CAD para
+A partir de la meta pasada, logramos movernos a la siguiente meta que era realizar el archivo URDF del CAD para
 emplearlo en simulaciones en matlab. Para realizar esta actividad solo fue necesario seguir los pasos de un tutorial 
 en youtube que adjunto a continuación.
 
+--> *Agregar video*
+
+Por ultimo importamos este URDF a matlab para poder realizar simulaciones de movimiento.
 
 # Conclusiones
 # Autores
@@ -85,8 +104,5 @@ en youtube que adjunto a continuación.
 | **DRR** | Diego Ramírez Rebollar |
 
 # Referencias
-<a id="1">[1]</a> 
+<a id="1">[1]</a> “Dynamixel: All-in-one smart actuator,” ROBOTIS.US. [Online]. Available: https://www.robotis.us/dynamixel/. 
 
-# Productos
-- Repositorio con los archivos generados durante la realización del proyecto.
-- Banco de pruebas del robot para ser utilizado en prácticas de la asignatura de robótica.
