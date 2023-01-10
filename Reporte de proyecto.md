@@ -35,14 +35,14 @@ Implementar una interfase de control de un robot serial 5R con actuadores dynami
 Para entrar en contexto con el root dynamixel es necesario entender el porque recibe este nombre, como menciona su propio 
 sitio web, Dynamixel es un sistema actuador inteligente desarrollado exclusivamente para conectar juntas para un robot o
 una estructura mecánica; estos están diseñados para ser modulares y fáciles de montar en cualquier robot o diseño mecánico
-para movimientos roboticos poderosos y flexibles.
+para movimientos roboticos poderosos y flexibles. [[1]](#1).
 
 Los Dynamixel tienen un elevado desempeño como actuador ya que contienen un Motor de corriente directa completamente 
 integrado con un reductor, un controlador interno y un driver para su conexión. 
 
 Tambien es bueno tomar en cuenta que este tipo de robot es de los robots clásicos que presentan una arquitectura antropomórfica serial, semejante al brazo humano. Consisten de una serie de barras rígidas unidas entre sí a través de articulaciones de un grado de libertad del tipo rotacional o prismática. En general cada articulación logra su movimiento a través de un accionamiento de potencia e incluye otros dispositivos como reductores de velocidad, frenos y sensores de posición o velociad.
 
-Al definir las relaciones cinemáticas de un robot no se suelen consideran los aspectos dinámicos, nada más alejado de la realidad cuando se quiere diseñar un robot ya que existe una inevitable relación causa-efecto entre la cinemática y la dinámica. Nada más claro resulta que al pensar en las dimensiones de un robot, la longitud de un brazo afecta al cuadrado la inercia de los eslabones y por lo tanto el peso del robot y la potencia requerida en los actuadores.
+Al definir las relaciones cinemáticas de un robot no se suelen consideran los aspectos dinámicos, nada más alejado de la realidad cuando se quiere diseñar un robot ya que existe una inevitable relación causa-efecto entre la cinemática y la dinámica. Nada más claro resulta que al pensar en las dimensiones de un robot, la longitud de un brazo afecta al cuadrado la inercia de los eslabones y por lo tanto el peso del robot y la potencia requerida en los actuadores. [[2]](#2)
 
 # Desarrollo
 
@@ -59,7 +59,7 @@ buscar los ejes de referenia para cada junta rotacional y así encontrar el mode
 A continuación se muestra el diagrama que cuerpo libre en donde mostramos todos los ejes de referencia que 
 marcamos para realizar nuestro análisis de este robot.
 
---> *Agregar imagen*
+![Analisis cinematico del robot](https://raw.githubusercontent.com/AlejandroCorona083/Proyecto_3_semestre_2023-1/master/assets/5R_Pos0.JPG)
 
 Una vez realizado esto, el ingeniero Erick Peña Medina nos ayudo a realizar el modelo cinemático del robot, 
 para posteriormente iniciar con las demas actividades o metas establecidas.
