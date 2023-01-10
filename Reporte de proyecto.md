@@ -59,7 +59,7 @@ buscar los ejes de referenia para cada junta rotacional y así encontrar el mode
 A continuación se muestra el diagrama que cuerpo libre en donde mostramos todos los ejes de referencia que 
 marcamos para realizar nuestro análisis de este robot.
 
-![Analisis cinematico del robot](https://github.com/mrg-mex/Proyecto_3_semestre_2023-1/blob/main/5R_Pos0.JPG)
+![Analisis cinematico del robot](https://github.com/mrg-mex/Proyecto_3_semestre_2023-1/blob/main/SmartSelect_20230109_203057_Adobe%20Acrobat.jpg)
 
 Una vez realizado esto, el ingeniero Erick Peña Medina nos ayudo a realizar el modelo cinemático del robot, 
 para posteriormente iniciar con las demas actividades o metas establecidas.
@@ -86,7 +86,7 @@ matlab.
 A continuacón se muestra una imagen renderizada del CAD del brazo completo, después de realizar la recreación 
 del gripper y corregir los errores de ensamble.
 
---> *Agregar imagen*
+![CAD corregido render](https://github.com/mrg-mex/Proyecto_3_semestre_2023-1/blob/main/5R_Pos0.JPG)
 
 A partir de la meta pasada, logramos movernos a la siguiente meta que era realizar el archivo URDF del CAD para
 emplearlo en simulaciones en matlab. Para realizar esta actividad solo fue necesario seguir los pasos de un tutorial 
