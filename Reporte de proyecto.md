@@ -117,6 +117,6 @@ brinda mucho conocmiento y experiencia para nuestra futura vida profesional como
 
 # Referencias
 <a id="1">[1]</a> “Dynamixel: All-in-one smart actuator,” ROBOTIS.US. [Online]. Available: https://www.robotis.us/dynamixel/. 
-<a id="1">[2]</a> W. Caraguay Ambuludi y L. Benavides Castillo, “Interfaz de Simulación de la Cinemática de Robots Manipuladores Seriales”, Investigatio, vol. 7, pp. 35–47, 2016.
+<a id="2">[2]</a> W. Caraguay Ambuludi y L. Benavides Castillo, “Interfaz de Simulación de la Cinemática de Robots Manipuladores Seriales”, Investigatio, vol. 7, pp. 35–47, 2016.
 
 
