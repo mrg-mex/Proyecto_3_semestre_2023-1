@@ -59,7 +59,7 @@ buscar los ejes de referenia para cada junta rotacional y así encontrar el mode
 A continuación se muestra el diagrama que cuerpo libre en donde mostramos todos los ejes de referencia que 
 marcamos para realizar nuestro análisis de este robot.
 
-![Analisis cinematico del robot](https://raw.githubusercontent.com/AlejandroCorona083/Proyecto_3_semestre_2023-1/master/assets/5R_Pos0.JPG)
+![Analisis cinematico del robot](https://github.com/mrg-mex/Proyecto_3_semestre_2023-1/blob/main/5R_Pos0.JPG)
 
 Una vez realizado esto, el ingeniero Erick Peña Medina nos ayudo a realizar el modelo cinemático del robot, 
 para posteriormente iniciar con las demas actividades o metas establecidas.
