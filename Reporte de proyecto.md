@@ -40,7 +40,9 @@ para movimientos roboticos poderosos y flexibles.
 Los Dynamixel tienen un elevado desempeño como actuador ya que contienen un Motor de corriente directa completamente 
 integrado con un reductor, un controlador interno y un driver para su conexión. 
 
+Tambien es bueno tomar en cuenta que este tipo de robot es de los robots clásicos que presentan una arquitectura antropomórfica serial, semejante al brazo humano. Consisten de una serie de barras rígidas unidas entre sí a través de articulaciones de un grado de libertad del tipo rotacional o prismática. En general cada articulación logra su movimiento a través de un accionamiento de potencia e incluye otros dispositivos como reductores de velocidad, frenos y sensores de posición o velociad.
 
+Al definir las relaciones cinemáticas de un robot no se suelen consideran los aspectos dinámicos, nada más alejado de la realidad cuando se quiere diseñar un robot ya que existe una inevitable relación causa-efecto entre la cinemática y la dinámica. Nada más claro resulta que al pensar en las dimensiones de un robot, la longitud de un brazo afecta al cuadrado la inercia de los eslabones y por lo tanto el peso del robot y la potencia requerida en los actuadores.
 
 # Desarrollo
 
@@ -95,6 +97,16 @@ en youtube que adjunto a continuación.
 Por ultimo importamos este URDF a matlab para poder realizar simulaciones de movimiento.
 
 # Conclusiones
+Se lograron cumplir los objetivos y metas establecidas al inicio del proyecto, se logro con exito el inicio del 
+planteamiento del modelo cinematico, tambien se llevo a cabo la correcion de piezas del modelado del brazo completo para 
+posteriormente poder realizar el ensamble completodel robot para que este se pueda utilizar correctamente para 
+simulaciones en matlab, posteriormente logramos llevar a cabo gracias a lo anterior, la etencion del URDF para 
+poder exportarlo a matlab y asi poder simular en este los movimientos del brazo robotico.
+
+El proyecto nos ayudo a poder asentar el conocimiento adquirido a lo largo del semestre, poniendo en marcha 
+tanto lo visto en clase, como el calculo para el modelo cinematico, el uso de matlab y como funcionan las simualciones
+en el software, como tambien aprendimos a utilizar GitHub y a aprender a realizar un archivo URDF, lo cual nos
+brinda mucho conocmiento y experiencia para nuestra futura vida profesional como ingenieros.
 # Autores
 | Iniciales  | Description |
 | ----------:| ----------- |
@@ -105,4 +117,6 @@ Por ultimo importamos este URDF a matlab para poder realizar simulaciones de mov
 
 # Referencias
 <a id="1">[1]</a> “Dynamixel: All-in-one smart actuator,” ROBOTIS.US. [Online]. Available: https://www.robotis.us/dynamixel/. 
+<a id="1">[2]</a> W. Caraguay Ambuludi y L. Benavides Castillo, “Interfaz de Simulación de la Cinemática de Robots Manipuladores Seriales”, Investigatio, vol. 7, pp. 35–47, 2016.
+
 
