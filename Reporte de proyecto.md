@@ -92,7 +92,7 @@ A partir de la meta pasada, logramos movernos a la siguiente meta que era realiz
 emplearlo en simulaciones en matlab. Para realizar esta actividad solo fue necesario seguir los pasos de un tutorial 
 en youtube que adjunto a continuación.
 
---> *Agregar video*
+![VIDEO PARA OBTENER URDF](https://www.youtube.com/watch?v=CKlK5H8EguA&t=2423s)
 
 Por ultimo importamos este URDF a matlab para poder realizar simulaciones de movimiento.
 
