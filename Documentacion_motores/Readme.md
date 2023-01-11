@@ -25,7 +25,7 @@
 ![Ejemplo ReadWrite AX](https://i.imgur.com/EnPWOM6.png)
 ### 9. Escribir a continuación de la variable "#define DXL_ID" el ID del servomotor que se quiere mover
 ![ID](https://i.imgur.com/UQ2G51S.png)
-### 10. Escribir un valor mínimo y un valor máximo de posición entre los cuales se moverá el motor (el rango permitido es desde 0 hasta 1023)
+### 10. Escribir un valor mínimo y un valor máximo de posición entre los cuales se moverá el motor (el rango permitido es desde 0 hasta 1023 que son de 0 a 300 grados aproximadamente)
 ![Posicion](https://i.imgur.com/YBRohBI.png)
 ---
 ## Pruebas de movimiento de servomotores Dynamixel
