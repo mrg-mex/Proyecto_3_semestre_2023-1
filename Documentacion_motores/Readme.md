@@ -46,7 +46,7 @@
 ## Configuración del Dynamixel SDK en Matlab
 
 ### 1. Descargar de la página [ROBOTIS e-Manual](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/download/#repository) el archivo con nombre "DYNAMIXEL SDK 3.7.31.zip (For ROS1, Python, C, C++, C#, MATLAB, LabView, Java)" y descomprimirlo
-![DescargaSDK](https://imgur.com/a/VFDpm97)
+![DescargaSDK](https://i.imgur.com/b7BewZD.png)
 ### 2. Ahora dentro de Matlab nos tenemos que dirigir a la pestaña "HOME", después al apartado de "ENVIRONMENT" y dar clic en "Set Path"
 ![SetPath](https://i.imgur.com/ZGIBFD5.png)
 ### 3. En la ventana de "Set Path" tenemos que dar clic en la opción "Add with Subfolders..." y buscar la ubicación de la carpeta descomprimida "DynamixelSDK-3.7.31" y dar doble clic sobre ella
